@@ -1,3 +1,4 @@
+# Jogo do Par ou Ímpar
 from random import randint
 from time import sleep
 v = 0

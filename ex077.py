@@ -1,3 +1,4 @@
+#Contando vogais com tuplas
 palavras = ('aprender', 'programar', 'linguagem', 'python',
             'curso', 'grátis', 'estudar', 'praticar',
             'trabalhar', 'mercado', 'programador', 'futuro')

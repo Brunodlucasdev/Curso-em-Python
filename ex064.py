@@ -1,3 +1,4 @@
+# Tratando vários valores
 num = cont = soma = 0
 num = int(input('Digite um número [999 para parar]: '))
 while num != 999:

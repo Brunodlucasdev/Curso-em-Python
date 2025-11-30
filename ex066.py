@@ -1,3 +1,4 @@
+# Vários números com flag
 soma = cont =  0
 while True:
     numero = int(input('Digite um valor (999 para parar): '))

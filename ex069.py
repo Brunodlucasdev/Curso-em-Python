@@ -1,3 +1,4 @@
+# Análise de dados do grupo
 total = totalh = totm20 =  0
 print('=' * 40)
 print('          CADASTRO DE PESSOAS')

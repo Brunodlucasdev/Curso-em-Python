@@ -1,3 +1,4 @@
+#Lista de preços com Tupla
 listagem = ('Lápis', 1.75,
             'Borracha', 2.00,
             'Caderno', 15.90,

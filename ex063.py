@@ -1,3 +1,4 @@
+# Sequência de Fibonacci v1.0
 print('-'*36)
 print('Sequência de Fibonacci')
 print('-'*36)

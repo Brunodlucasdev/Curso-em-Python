@@ -1,3 +1,4 @@
+# Estatísticas em produto
 print('=' * 40)
 print('LOJA SUPER BARATÃO')
 print('=' * 40)

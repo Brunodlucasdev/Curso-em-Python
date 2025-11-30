@@ -1,3 +1,4 @@
+#Tabuada Usando estrutura de repetição while
 while True:
     print('-'*30)
     n = int(input('Quer ver a tabuada de qual valor?'))

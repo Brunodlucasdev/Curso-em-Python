@@ -1,3 +1,4 @@
+#Tuplas com times de futebol
 times = ('Corinthias', 'Palmeiras', 'Santos','Grêmio',
          'Cruzeiro', 'Flamengo', 'Vasco', 'Chapecoense',
          'Atlético', 'Botafogo', 'Atlético-PR', 'Bahia',

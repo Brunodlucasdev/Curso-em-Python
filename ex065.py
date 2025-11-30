@@ -1,3 +1,4 @@
+# Maior e menor valores com while
 resposta = 'S'
 soma = quant = media = maior = menor  = 0
 while resposta in 'Ss':

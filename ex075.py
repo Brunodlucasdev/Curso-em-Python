@@ -1,3 +1,4 @@
+#Análise de dados em uma Tupla
 num = (int(input('Digite um número: ')),
        int(input('Digite outro número: ')),
        int(input('Digite mais um número: ')),
