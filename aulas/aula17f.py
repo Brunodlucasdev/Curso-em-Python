@@ -5,4 +5,3 @@ galera = [['Bruno', 19], ['Lucas', 20], ['Vinizada', 28],['Emanuel', 24]]
 # ESTRUTURA DE REPETIÇÃO E LISTA
 for p in galera:
     print(f'{p[0]} tem {p[1]} anos de idade.')
-
