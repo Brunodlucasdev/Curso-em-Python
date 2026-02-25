@@ -1,0 +1,3 @@
+Ana;23
+bruno;19
+Alex;17
