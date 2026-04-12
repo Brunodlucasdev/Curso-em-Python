@@ -21,5 +21,5 @@ def notas(*n, sit=False):
 
 
 #Programa Principal
-resp = notas(9.5, 9.5, 9, 9.5, sit=True)
+resp = notas(6, 5, 9, 4, sit=True)
 print(resp)
